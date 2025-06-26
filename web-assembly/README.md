@@ -17,23 +17,23 @@ JavaScript frameworks could make use of WebAssembly to confer massive performanc
 ```
 
 1. (MCQ) What's the main interest of WebAssembly?
-  - [ ] gains in performance for web app
-  - [ ] implementation simplicity
+  - [X] gains in performance for web app
+  - [X] implementation simplicity
   - [ ] good development environment
 
 2. (MCQ) You can call WebAssembly functions from Javascript
-  - [ ] True
+  - [X] True
   - [ ] False
 
 3. (MCQ) According to the text, what kind of languages could you typically use to create WebAssembly?
-  - [ ] C
+  - [X] C
   - [ ] Python
-  - [ ] Rust
-  - [ ] C++
-  - [ ] Javascript
+  - [X] Rust
+  - [X] C++
+  - [X] Javascript
 
 4. (Open-ended question - max 10 lines) What are the potential benefits of using WebAssembly in web development?
 
 ```text
- <Insert answer here.>
+ It could provide a way to make use of multiple languages in a web app without the need to learn another language from scratch as well as improve the performances of said languages.
 ```
